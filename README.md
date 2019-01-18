@@ -46,6 +46,7 @@ Upload to the Arduino the following program:
 
 ## On Unity3D ! 💻
 Open the project either from **wrmhl folder** or **wrmhl-master** 🌈
+        (This is found within the Assets folder!)
 <img src="/img/unity-open.gif">
 
 ### Import the Package ! 📦
